@@ -1,9 +1,10 @@
+This website is based on [The Engine Room's Library](https://library.theengineroom.org/) template. To learn more [visit the GitHub repository](https://github.com/the-engine-room/library)
 # Engine Room Library
 
 [![Build Status](https://travis-ci.org/the-engine-room/library.svg?branch=gh-pages)](https://travis-ci.org/the-engine-room/library)
 
 
-## Editing the Microtasking Page 
+## Editing the Microtasking Page
 
 The editable text in this page is stored available here: [/_posts/2015-12-07-microtasking.md](/_posts/2015-12-07-microtasking.md)
 Note that the section names (Definition, Examples, etc.) cannot change or the menu will cease to work.
@@ -11,7 +12,7 @@ For help formatting Markdown, check the GitHub [Markdown Basics](https://help.gi
 
 ## Creating a New Page
 
-Create a markdown (.md) file in the `_posts` directory with a filename matching `YYYY-MM-DD-title.md`. 
+Create a markdown (.md) file in the `_posts` directory with a filename matching `YYYY-MM-DD-title.md`.
 Add the required jekyll front-matter lines at the beginning of each page.
 
 ``` markdown
