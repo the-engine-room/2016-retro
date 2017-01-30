@@ -1,5 +1,5 @@
 body.rainforest {
-	nav { 
+	nav {
 		background-color: $rfn-green;
 		a:hover {
 			color: white;
@@ -24,7 +24,7 @@ body.rainforest {
 	    margin-left: 50px;
 	    padding-left: 7px;
 	    color: black;
-	
+
 		a {
 			color: black;
 		}
@@ -47,11 +47,11 @@ body.table-of-contents {
 	}
 
 	hr {
-		border-top: 5px solid $grape;
+		border-top: 5px solid $primary-color;
 	}
 
 	#books {
-		.row { 
+		.row {
 			margin-bottom: 4rem;
 		}
 		h2 {
@@ -59,7 +59,7 @@ body.table-of-contents {
 			margin-bottom: 0;
 			a {
 				text-decoration: none;
-				color: $grape;
+				color: $primary-color;
 				font-weight: normal;
 				text-transform: uppercase;
 			}

@@ -8,22 +8,19 @@ funder_link: //www.amnestyusa.org
 funder_name: Amnesty International
 published: true
 navigation:
-  - Definition
-  - Examples
-  - Tools and Platforms
-  - Pros and Cons
-  - Planning
-  - Implementation
-  - About
-ref: microtasking
+  - Letter from the Executive Director
+  - Who we are
+  - 2016 Year in numbers
+  - Operational Achievements
+  - Team Changes
 lang: en
 categories:
   - en
 ---
 
-# Microtasking
+# 2016 Retrospective
 
-## Definition
+## Letter from the Executive Director
 
 Microtasking is the process of splitting a large job into small tasks that can be distributed, over the Internet, to many people. Machines and algorithms are very efficient at certain functions, such as identifying patterns in an image or performing advanced calculations, but other tasks, including identifying the contents of an image or recognizing obscure text, are still best performed by humans.
 
@@ -33,7 +30,7 @@ Microtasking platforms provide a way for anyone sitting at their computer to con
 
 ---
 
-## Examples
+## Who we are
 
 This process has been used for over ten years in the commercial sector. Microtasking workplaces like [Mechanical Turk](//www.mturk.com) or [ClickWorker](//www.clickworker.com/) connect businesses with people around the world to outsource small tasks for pay. Example tasks include tagging photos from social media, typing out business card information from a photo, and digitising receipts and invoices.
 
