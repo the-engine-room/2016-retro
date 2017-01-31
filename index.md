@@ -106,7 +106,7 @@ The process: Using desk research and interviews, we identified the people, tools
 The outcome: Amnesty Decoders gave volunteers a new, meaningful way to combat human rights abuses. Over 6000 digital volunteers digitised key information from Amnesty’s Urgent Action archive in less than a month. And using the pilot process we helped them develop, they sorted 150,000 square kilometres of satellite footage in under a week.
 
 >“I am forever grateful to The Engine Room team for helping take Amnesty Decoders off the ground. We had a good understanding of what we needed to achieve – a new, innovative way to engage digital volunteers in human rights research. The least clear part was how to get there in the most efficient way. Through a series of hands on workshops and research, The Engine Room helped the Amnesty team define the project scope and framework, understand what is possible ensuring we learn from other similar initiatives, assess available technologies and crystallise our ideas into a focused pilot project.”
- Milena Marin,
+Milena Marin,
 Amnesty International
 
 ### Cape Town Rep Sprint
@@ -144,10 +144,10 @@ The problem: In recent years data has become a key element in various struggles 
 What we did: Working with information designer and artist Mushon Zer-Aviv, and our partners at Data & Society and ThoughtWorks, we gathered 35 activists, researchers, designers, technologists, analysts, artists, journalists, campaigners and other dataviz-ers to challenge our practices and the use of visualization and develop useful resources to address the issues of responsible data and data visualisation.
 The outcome: We created a series of resources that lives on the Responsible Data wiki. The conversation we began about responsible data and data visualisation  has has grown and spread throughout the year, and the posts that were written in the lead up to the event have been referred to by related movements and communities since then, like feminist data visualisation. We’ve heard rumblings of collaborations between participants, and we are excited to build on this event in the coming year.
 
->Feedback
-“Last Friday I attended a Data Visualization seminar by the Responsible Data Forum. I got a fascinatingly succinct introduction to the concerns of applying data visualization in a responsible way.”
+>"Last Friday I attended a Data Visualization seminar by the Responsible Data Forum. I got a fascinatingly succinct introduction to the concerns of applying data visualization in a responsible way."
 https://jahya.net/blog/crash-course-responsible-dataviz/
-Last year’s workshop on private sector data sharing (data philanthropy, if you like) inspired some of our thinking and collaborations over the past year, and today’s event about data visualization for social impact did not disappoint.
+
+>"Last year’s workshop on private sector data sharing (data philanthropy, if you like) inspired some of our thinking and collaborations over the past year, and today’s event about data visualization for social impact did not disappoint."
 https://blogs.microsoft.com/newyork/2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/
 
 ### Evidence and Storytelling in Deforestation Advocacy
@@ -160,9 +160,10 @@ The process: The 2.5 day participatory workshop featured support for: designing 
 
 The outcome: Feedback from the event was overwhelmingly positive - with participants finding the participatory methods useful for putting them in the shoes of their adversaries and champions, as well as learning how to improve data visualisation methods. Clinics with visiting experts provided participating organisations with tailored advice, and grew the network of expertise in the region.
 
->“What I liked most was the opportunities for participants to learn from each other”
+>“What I liked most was the opportunities for participants to learn from each other.”
 Feedback from the event
-“I think there was not one missing thing about the process. Perfect. I would like to learn how to hold a similar workshop for other people in my organisation.”
+
+>“I think there was not one missing thing about the process. Perfect. I would like to learn how to hold a similar workshop for other people in my organisation.”
 Feedback from the event
 
 ## 2016 Areas of Focus
