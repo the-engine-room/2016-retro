@@ -70,7 +70,7 @@ This year we grew the number of organisations we supported from 63 to 188.
 ### 42 countries
 We worked with organisations in 42 countries, including: Argentina, Bangladesh, Bosnia & Herzegovina, Brazil, Cambodia, Canada, Chile, Colombia, Croatia, Ecuador, Egypt, El Salvador, France, Germany, Guatemala, Hungary, India, Indonesia, Italy, Kosovo, Kyrgyzstan, Madagascar, Malawi, Mexico, Montenegro, Morocco, Myanmar, Netherlands, Palestinian Territories, Peru, Romania, Senegal, Serbia, South Africa, Spain, Switzerland, Tanzania, Thailand, Turkey, United Kingdom, United States and Zimbabwe
 
-### 7 Matchbox Partnerships, 2 Replication Sprints
+### 8 Matchbox Partnerships, 2 Replication Sprints
 This year we worked on 7 Matchbox Partnership projects with organisations from Malawi, Mexico, Namibia, Peru and Zimbabwe. We also continued partnerships from the 2014/2015 pilot phase. We piloted our Replication Sprint model.
 
 ### 59 Blog Posts
@@ -95,21 +95,21 @@ We are proud of the work we have achieved in 2016. Here are some highlights of t
 
 ### Amnesty International Decoders
 
-What we did: We worked with Amnesty International to integrate microtasking into their research and advocacy strategy.
+What we did: We worked with Amnesty International in a Matchbox partnership to integrate microtasking into their research and advocacy strategy.
 
 The problem:  In a world with ever increasing amounts of information being produced, finding relevant data is increasingly difficult. Could Amnesty International’s volunteer network provide an answer?
 
 Microtasking. What and why. Microtasking splits up jobs into small tasks that can be distributed to many people over the internet. It’s particularly suited for tasks that humans do better than computers, such as recognising the content of an image. In human rights research, however, nothing is simple. How can you distil binary answers from nuanced, complex themes like torture, gender violence or unlawful imprisonment?
 
-The process: Using desk research and interviews, we identified the people, tools, and processes that already work. We distilled this into a concise ‘report’ on microtasking that is publicly accessible in our Library. We then facilitated a two-day workshop for a needs and opportunities analysis, and built a pilot project using our Matchbox process in association with Alt-Click. Amnesty Decoders was launched.
+The process: Using desk research and interviews, we identified the people, tools, and processes that already work. We distilled this into a concise ‘report’ on microtasking that is publicly accessible in our [Library](https://library.theengineroom.org/microtasking/). We then facilitated a two-day workshop for a needs and opportunities analysis, and built a pilot project using our Matchbox process in association with Alt-Click. [Amnesty Decoders](https://decoders.amnesty.org/) was launched.
 
-The outcome: Amnesty Decoders gave volunteers a new, meaningful way to combat human rights abuses. Over 6000 digital volunteers digitised key information from Amnesty’s Urgent Action archive in less than a month. And using the pilot process we helped them develop, they sorted 150,000 square kilometres of satellite footage in under a week.
+The outcome: [Amnesty Decoders](https://decoders.amnesty.org/) gave volunteers a new, meaningful way to combat human rights abuses. Over 6000 digital volunteers digitised key information from Amnesty’s Urgent Action archive in less than a month. And using the pilot process we helped them develop, they sorted 150,000 square kilometres of satellite footage in under a week.
 
 >“I am forever grateful to The Engine Room team for helping take Amnesty Decoders off the ground. We had a good understanding of what we needed to achieve – a new, innovative way to engage digital volunteers in human rights research. The least clear part was how to get there in the most efficient way. Through a series of hands on workshops and research, The Engine Room helped the Amnesty team define the project scope and framework, understand what is possible ensuring we learn from other similar initiatives, assess available technologies and crystallise our ideas into a focused pilot project.”
 Milena Marin,
 Amnesty International
 
-### Cape Town Rep Sprint
+### Cape Town Replication Sprint: Extractive License Databases
 
 The problem: The extractives industry operates with little oversight. Mining companies regularly collude with corrupt government officials, hide their profits from taxation, and operate without respect to the communities affected by their work. How can we track these activities and hold the leaders of these companies to account? How can we help activists who don’t have the time or skills to make the most of existing data and technology?
 
@@ -122,13 +122,13 @@ Our first replication sprint in Cape Town brought together two project teams fro
 
 >“I was intimidated… by user experience, data models, GIS, and tools like CartoDB… [and]... concerned… I would be overwhelmed. In five days, I understand how these things work and how we can put them to work in our advocacy. And I’m excited to keep going.” Feedback from the event
 
-### DatNav
+### DatNav: Primer on Digital Data in Human Rights Research
 
 The problem: We believe digital data opens up all sorts of new possibilities for human rights research. But is it true? And how are human rights researchers putting these tools to use now? To answer these questions, we conducted a series of interviews, community consultations.. Surprisingly we  discovered that in the vast majority of cases,  it wasn’t being used at all. Why? Our research showed that human rights researchers are overwhelmed by the possibilities and in the face of limited resources, they don’t know how to get started or even if  it is worthwhile to try.
 
-What we did: We built on the information we collected in our community consultations and interviews, and worked with Amnesty International and Benetech to create a guide, DatNav, to help address these issues. Read more about it here.
+What we did: We built on the information we collected in our community consultations and interviews, and worked with Amnesty International and Benetech to create a guide, [DatNav](https://www.theengineroom.org/datnav-digital-data-in-human-rights-research/), to help address these issues. Read more about it [here](https://www.theengineroom.org/datnav-digital-data-in-human-rights-research/).
 
-The process: After identifying the key challenge - that people are overwhelmed by the possibilities - Chris Michael of Collaborations for Change helped us to design a convening of 16 researchers, human rights defenders, and technical experts in Berlin in May 2016. Over four days of intense discussion, reflection and writing, we collectively identified content gaps and issues to cover, and drafted the DatNav guide.
+The process: After identifying the key challenge - that people are overwhelmed by the possibilities - [Chris Michael](https://www.collaborationsforchange.org/about/) of [Collaborations for Change](https://www.collaborationsforchange.org/) helped us to design a convening of 16 researchers, human rights defenders, and technical experts in Berlin in May 2016. Over four days of intense discussion, reflection and writing, we collectively identified content gaps and issues to cover, and drafted the [DatNav](https://www.theengineroom.org/wp-content/uploads/2016/09/datnav.pdf) guide.
 
 The Outcome: Within just a few months of it being published, The DatNav guide has been downloaded over 600 times and testimony from human rights defenders shows it has been extremely valuable in helping guide them through the plethora of opportunities digital data presents them. We plan to grow our support to human rights organisations facing these challenges so they can put digital data to work.
 
@@ -141,13 +141,14 @@ https://twitter.com/brian_root/status/769171591053864960
 
 The problem: In recent years data has become a key element in various struggles for social change. We use data not only as a means for research and investigation, but also as a fundamental building block for our communication and advocacy. Typically, data in spreadsheets is turned into data visualization (dataviz)  to create a message and perhaps drive a campaign. Yet little is known about the ethics and responsibilities of dataviz techniques, policies, and practices in analysis, advocacy, research and design
 
-What we did: Working with information designer and artist Mushon Zer-Aviv, and our partners at Data & Society and ThoughtWorks, we gathered 35 activists, researchers, designers, technologists, analysts, artists, journalists, campaigners and other dataviz-ers to challenge our practices and the use of visualization and develop useful resources to address the issues of responsible data and data visualisation.
-The outcome: We created a series of resources that lives on the Responsible Data wiki. The conversation we began about responsible data and data visualisation  has has grown and spread throughout the year, and the posts that were written in the lead up to the event have been referred to by related movements and communities since then, like feminist data visualisation. We’ve heard rumblings of collaborations between participants, and we are excited to build on this event in the coming year.
+What we did: Working with information designer and artist Mushon Zer-Aviv, and our partners at [Data & Society](https://datasociety.net/) and [ThoughtWorks](https://www.thoughtworks.com/), we gathered 35 activists, researchers, designers, technologists, analysts, artists, journalists, campaigners and other dataviz-ers to challenge our practices and the use of visualization and develop useful resources to address the issues of responsible data and data visualisation.
+
+The outcome: We created a series of resources that lives on the Responsible Data wiki. The conversation we began about responsible data and data visualisation  has has [grown and spread throughout the year](https://twitter.com/search?q=rdfviz&src=typd), and [the posts](https://responsibledata.io/data-vizualisation-links-and-articles/) that were written in the lead up to the event have been referred to by related movements and communities since then, like [feminist data visualisation](https://civic.mit.edu/feminist-data-visualization). We’ve heard rumblings of collaborations between participants, and we are excited to build on this event in the coming year.
 
 >"Last Friday I attended a Data Visualization seminar by the Responsible Data Forum. I got a fascinatingly succinct introduction to the concerns of applying data visualization in a responsible way."
 https://jahya.net/blog/crash-course-responsible-dataviz/
 
->"Last year’s workshop on private sector data sharing (data philanthropy, if you like) inspired some of our thinking and collaborations over the past year, and today’s event about data visualization for social impact did not disappoint."
+>"Last year’s workshop on [private sector data sharing](http://responsibledata.io/forums/responsibility-private-sector-data/) (data philanthropy, if you like) inspired some of our thinking and collaborations over the past year, and today’s event about [data visualization for social impact](https://responsibledata.io/forums/data-visualization/) did not disappoint."
 https://blogs.microsoft.com/newyork/2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/
 
 ### Evidence and Storytelling in Deforestation Advocacy
@@ -166,9 +167,8 @@ Feedback from the event
 >“I think there was not one missing thing about the process. Perfect. I would like to learn how to hold a similar workshop for other people in my organisation.”
 Feedback from the event
 
-## 2016 Areas of Focus
+## 2016 Sector Focus
 
-### Our Sector Approach
 The Engine Room partners with organisations working toward social good outcomes. Through the years, we have worked with organisations working towards diverse missions. Despite that diversity, 	we have carried out focused work in a number of sectors and communities and plan to continue sector-specific strategies.
 
 What sectors did we work in most in 2016?
