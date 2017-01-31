@@ -38,6 +38,20 @@ h1 {
 
 
 section.content {
+  font-size: 14pt;
+  color: #666;
+  /** new Anchor styles **/
+  a {
+    font-family: 'Baton', Sans-serif;
+    font-weight: bold;
+    font-size: 15pt;
+    color: $link-color;
+    text-decoration: none;
+    &:hover, &:active {
+      color: $link-active;
+    }
+  }
+
   ul, ol {
     list-style-position: outside;
     margin-left: 0;
@@ -56,12 +70,15 @@ section.content {
     font-size: 4rem;
     color: $primary-color;
     margin: 50px 0px;
-    font-size: 60pt; 
+    font-size: 60pt;
   }
 
   h2 {
   	font-weight: bold;
-
+    font-size: 36pt;
+    color: $dark-grey;
+    margin-top: 50px;
+/*
     &:before {
         float: left;
         content: '';
@@ -99,10 +116,10 @@ section.content {
     &#tensions:before { background-image: url('../images/icons/tension.svg'); }
     &#best-practices:before { background-image: url('../images/icons/examples.svg'); }
     &#acknowledgements:before { background-image: url('../images/icons/about.svg'); }
-
+*/
   }
 
-  h3 { font-size: 22pt; }
+  h3 { font-size: 24pt; font-family: 'Roboto'; font-weight: bold; margin: 20px 0px 20px;  }
 
   h4 { font-size: 16pt; }
 
