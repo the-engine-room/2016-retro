@@ -24,232 +24,172 @@ categories:
 
 ## Letter from the Executive Director
 
-Microtasking is the process of splitting a large job into small tasks that can be distributed, over the Internet, to many people. Machines and algorithms are very efficient at certain functions, such as identifying patterns in an image or performing advanced calculations, but other tasks, including identifying the contents of an image or recognizing obscure text, are still best performed by humans.
+2016 has been a big year for The Engine Room as our work and our impact continues to grow. And while the year saw a series of dramatic and unexpected events which at times have tested one of our organisational premises - that evidence and data matter - we believe that our work has never been more relevant or important.
 
-Microtasking platforms provide a way for anyone sitting at their computer to contribute to important tasks - they can get involved in noticing changes in forestry, or in noticing blemishes on an image that might indicate attacks on a certain area. For an organisation, microtasking brings benefits like distributing the workload, but it also requires a lot of thought and strategic planning.  The content of this site is based on a series of interviews with people who have worked on microtasking platforms, and outlines the work that goes into running a successful microtasking platform.
+The Engine Room was founded to support activists and advocates to embrace data and technology. We continue to believe that data, evidence, and powerful uses of emerging technology can accelerate the impact that social change organisations work to bring about. We believe that by effectively embracing new tools, organisations can operate and innovate more effectively to serve their communities and reach their advocacy goals.
 
-![Microtasking](../media/microtasking/microtasking.png)
+And 2016 has been significant for making our mission a reality. This year, we supported three times as many organisations as the year before. We also doubled the size of our fee-for-service support to INGOs, supporting projects like Amnesty International’s [Decoders](https://decoders.amnesty.org/) and [Data Centar](http://datacentar.io/en).
+
+Our [Responsible Data](https://responsibledata.io/) program has influenced [debate at the UN](https://www.theengineroom.org/launching-new-responsible-data-in-agriculture-paper/) about rights-based use of data, and taken hold as a [norm-setting force](https://www.ictworks.org/2016/11/21/how-to-develop-and-implement-responsible-data-policies/) in the technology for social good community. Our Matchbox model has spread in [influence](https://www.theengineroom.org/balancing-acts-using-replication-sprints-to-repurpose-technology-without-ignoring-context/) and [impact](https://diig.io). We launched our [Library](https://library.theengineroom.org/) and [Compiler](https://the-compiler.tumblr.com/) to deliver accessible research findings and clear opportunities for creative activists and practitioner organisations.
+
+We also launched a new brand and a new website, published our first formal [organisational strategy](https://www.theengineroom.org/2015-is-so-last-year/), and held our first in-person board meeting.
+
+What is in store for 2017?
+
+We’re planning another big year. We will finalise our move from Norway to a US 501c3, and grow our board. We will build on our work and develop sector-specific strategies in transparency and accountability, human rights, and environmental justice. We will continue to carry out high-impact work using direct support, research, and community development approaches.
+
+All in all, as we begin our 2017, I am proud of our track record of success across programs and projects, and the fantastic people that call The Engine Room home. If you are interested in using data and technology in your social change work, get in touch.
+
+As always, our digital door is open.
+
+**Alix Dunn**
+
+**Executive Director & Founder,
+The Engine Room**
 
 ---
 
 ## Who we are
 
-This process has been used for over ten years in the commercial sector. Microtasking workplaces like [Mechanical Turk](//www.mturk.com) or [ClickWorker](//www.clickworker.com/) connect businesses with people around the world to outsource small tasks for pay. Example tasks include tagging photos from social media, typing out business card information from a photo, and digitising receipts and invoices.
+### Our Mission
 
-Increasingly, this technology is being used by the not for profit sector. The following initiatives have successfully applied microtasking for humanitarian or social purposes, and their staff were interviewed for the creation of this report. They represent projects with a wide range of sophistication and volunteer engagement, from tens to tens of thousands. Some were large organizations with dedicated communications teams, while others recruited a volunteer developer to build their platform.
+The Engine Room accelerates social change by helping activists, organisations and other social change agents make the most of data and technology to increase their impact.
 
-- [Planetary Response Network](//irevolution.net/2014/06/03/zoomanitarians/). Tagging satellite/aerial imagery to accelerate disaster damage assessments, using Zooniverse.
-- [GeoTag-X](//geotagx.org/). Extracting data from images of disasters, using Pybossa.
-- [Greenpeace Guardianes](//greenpeace.org.ar/guardianes/index-EN.php ). Identifying deforestation/forest degradation from Landsat satellite imagery. Previously used Silverlight, currently building a new version.
-- [Global Forest Watch Fires](//fires.globalforestwatch.org). Identifying fires and haze from satellite imagery, using Tomnod.
-- [Fairplay Alliance](//www.fair-play.sk/). Pulling out data from contracts, using a system built independently.
-- [Vozdata](//blogs.lanacion.com.ar/projects/data/vozdata/). Transcribing information on expenses from PDFs, using Crowdata.
-- [Micromappers](http://micromappers.org/). Combining the extraction of data from images and social media with machine learning, using Pybossa.
+### How We Work
 
----
+We use three mechanisms to achieve our goals: direct support, research, and communities of practice. Each stream of work has its own dynamic and workflow, and connects with our sector-focus in different ways. Our methodology has grown organically and pragmatically over the six years we have been working - and continues to evolve.
 
-## Tools and Platforms
+We pride ourselves on original and effective solutions that deliver big impact. We are responsive, agile and global, and apply our expertise to real world challenges.
 
-Several existing tools allow organizations to create and launch their own microtasking project. The table below compares key functional differences between the platforms used by the example initiatives above.
+### Our Team
 
-Platform | [Tomnod](//www.tomnod.com) | [Zooniverse](//www.zooniverse.org) | [Checkdesk](//checkdesk.org) | [Crowdcrafting + Pybossa](//crowdcrafting.org) | [Pybossa](//pybossa.com) | [Crowdata](//crowdata.github.com) | [Micromappers](//github.com/micromappers) |
--------- | -------- | -------- | -------- | -------- | -------- | -------- |
-__Location__ | Colorado, USA | Chicago, USA and Oxford, England | San Francisco, USA | Unknown | Madrid, Spain | Buenos Aires, Argentina | Doha, Qatar |
-__Created__ | 2011 | 2009 | 2011 | 2011 | 2011 | 2013 | 2013
-__Allowed Data Formats__ | Visual | Visual, Audio | Visual and Text | Visual, Text, Audio | Visual, Text, Audio | Text | Visual, Text, Audio |
-__Allowed Microtasks__ | Discovery | Discovery, Verification | Verification | Discovery, Verification | Varies | Verification, Data Release | Discovery, Verification |
-__Allows Custom Data Fields__ | Yes | Yes | No | Yes | Yes | Yes | Yes |
-__Allows Anonymous Users__ | Yes | Yes | No | Yes | Yes | No | Yes |
-__Allows Private Projects__ | Yes | Yes | Yes | No | Yes | Yes | Forthcoming |
-__Allows Gamification__ | Yes | No | No | Yes | Yes | Yes | No |
-__Data Hosting__ | Amazon Web Services | Zooniverse Server | Project's own server | Crowdcrafting Server | Project's own server | Project's own server | Project's own server |
-__Languages__ | English | English, German, Polish | English, Arabic | English, Spanish | English, Spanish, Italian, French, German, Greek, Japanese | English, Spanish | English (links with Translators without Borders |
-__Mobile Compatible__ | No | Yes | No | No | Yes | Yes | Yes |
-__License__ | Property of Digital Globe | Apache 2 License | GNU General Public License | GNU Affero General Public License | GNU Affero General Public License | MIT License | GNU Affero General Public License |
+Our organisational strength lies in our diverse skills - with coders, policy advocates, data analysts, journalists, storytellers, designers and sociologists on our team. This year our committed team grew to 15 based in 10 countries on four continents. And the internet is our office.
 
 ---
 
-## Pros and Cons
+## 2016 Year in numbers
 
-### Advantages
+### 188 Organisations Supported in...
+This year we grew the number of organisations we supported from 63 to 188.
 
-Microtasking has two principal benefits.
+### 42 countries
+We worked with organisations in 42 countries, including: Argentina, Bangladesh, Bosnia & Herzegovina, Brazil, Cambodia, Canada, Chile, Colombia, Croatia, Ecuador, Egypt, El Salvador, France, Germany, Guatemala, Hungary, India, Indonesia, Italy, Kosovo, Kyrgyzstan, Madagascar, Malawi, Mexico, Montenegro, Morocco, Myanmar, Netherlands, Palestinian Territories, Peru, Romania, Senegal, Serbia, South Africa, Spain, Switzerland, Tanzania, Thailand, Turkey, United Kingdom, United States and Zimbabwe
 
-* __Getting data that would otherwise be time-consuming to process or impossible to access.__ Any problem that can be broken into small tasks can potentially be crowdsourced to volunteers. Popular microtasking mechanisms include answering questions, transcribing information, identifying points, drawing shapes, and comparing two pieces of data.
+### 7 Matchbox Partnerships, 2 Replication Sprints
+This year we worked on 7 Matchbox Partnership projects with organisations from Malawi, Mexico, Namibia, Peru and Zimbabwe. We also continued partnerships from the 2014/2015 pilot phase. We piloted our Replication Sprint model.
 
-| **Data types**         | **Volunteer engagement**                   |
-|--------------------|----------------------------------------|
-| Documents          | Transcribing, verifying                |
-| Satellite imagery  | Identifying features                   |
-| Video              | Counting, describing                   |
-| Photography        | Comparing, identifying                 |
-| Social media posts | Classifying, prioritising              |
-| SMS                | Transcribing, translating, classifying |
-| Maps               | Digitising, contributing               |
+### 59 Blog Posts
+This year we published 59 [blog posts](https://www.theengineroom.org/blog/) (up from 25 in 2015) on topics from microtasking to citizen generated data, from responsible data to using data to influence investors.
 
+### 3 Responsible Data Forums
 
-* __Engaging volunteers actively in an issue.__ A major challenge for many member-driven organizations is turning web-based support into real world action. Beyond sharing information or providing financial support (often derided as “clicktivism”), microtasking offers volunteers the opportunity to be actively involved, learn more about an issue, and make a meaningful contribution.
+### 10 research outputs
 
-### Disadvantages
+### 54 Compiler entries
 
-Microtasking won’t be an effective solution for some organizations or projects.
+### 300,000 instant chat messages
 
-* __Stretching resource-constrained organizations.__ Significant staff time may be required to engage volunteers, monitor the quality of their work, and keep them motivated. Resource-constrained organizations may not be able to undertake microtasking easily.
-* __Skewing results for nefarious or benign reasons.__ Microtasking creates the potential that a small number of contributors could skew the data produced by the platform. This could be for political and commercial reasons, or because users were not using the platform in that way that was intended.
-* __Dividing opinions on data reliability.__ Because microtasking is a radical departure from existing research methods, it will draw doubt. Some will question the quality of data submitted by volunteers. Others may view it as an unnecessary disruption to existing workflows from untrusted individuals.
+### 100% increase in Twitter followers
 
-#### Responsible Data Issues
+### 70,000 unique visits across our websites
 
-Interviewees also noted the following more general risks.
-
-* Microtasking contributions are inherently unpredictable – both in terms of quantity and quality. Setting up an advocacy campaign dependent on microtasking data before having the data to back up the claims involves a leap of faith.
-* Allowing the public to contribute their own content necessarily involves giving up some control over what is communicated on the platform.
-* Volunteers contributing to humanitarian response may be exposed to sensitive and sometimes highly graphic content, so the opening of this information to the broader public poses ethical challenges. Organizations must take serious steps to ensure that no harm comes to those who choose to engage in their work.
-* Even well-intended volunteers may also accidentally use the platform in a way that was not intended.
+### All of this achieved with only a 30% year-over-year budget growth
 
 ---
 
-## Planning
+### 2016 Highlights
+We are proud of the work we have achieved in 2016. Here are some highlights of the year - some of our favorite projects where we think the impact of our work is strongest.
 
-Our interviewees represented projects and platforms that varied widely in terms of size, subject matter and levels of volunteer engagement. For some, planning and launching a microtasking project was a multi-year process involving many incremental improvements and iterations, while others built and launched their project in relatively short time.
+### Amnesty International Decoders
 
-### Managing Expectations
+### Cape Town Rep Sprint
 
-Microtasking isn't magic. Recognizing its limitations early in the planning process can allow an initiative to use it as effectively as possible.
+### DatNav
 
-* __Most volunteers will contribute for a maximum of 5-10 minutes per week, with a minority contributing more than that.__ However, this minority typically contributes most of the data that microtasking platforms receive. For example, Greenpeace Guardianes said that about 10% of its 30,000 users make 90% of the total contributions to the site.
+### Responsible Data Forum: Data Visualisation
 
-![Superusers](../media/microtasking/superusers.png)
+### Evidence and Storytelling in Deforestation Advocacy
+---
 
-* __Volunteers are most likely to complete tasks that are comprehensible in a short space of time.__ Interviewees said that projects often struggled with simplifying tasks down into the base unit of analysis. As the founder of Pybossa put it: “‘simple’ doesn’t mean ‘not complex,’ but volunteers shouldn’t need to spend a lot of time trying to understand the task.”
-* __‘Divide and conquer’: volunteers should only be asked to complete one type of task at a time.__ Zooniverse’s co-founder noted: “research teams tend to want to milk everything possible out of a task sequence, but experience has demonstrated that it’s always possible to go back and ask questions later on.” Pybossa’s founder added that some organisations were now successfully running 3-5 projects in parallel, with sets of volunteers each conducting a discrete, separate task to collect data that contributed to the project’s overall goal.
-* __Volunteers are likely to contribute more effectively when they can access information about the context of a task.__ Tomnod started by giving volunteers access to a small, 400-pixel satellite image, but found that they contributed much more effectively when they could see the wider region of which that image was a part (using satellite imagery from Digital Globe, which runs Tomnod). As the project lead of the Planetary Response Network said: “any project will have complete beginners and near-experts. The idea is to train people so they can become experts [by providing the right guidance].”
-* __There is a natural limit to the length of time that most volunteers will contribute.__ As Fairplay Alliance found: “Most of the volunteers were really active for 4-6 weeks – we could sustain it a bit longer with gamification (encouraging competition between users), but not much longer.”
-* __Acceptable data formats.__ Microtasking can work well when applied to the division and distribution tasks related to imagery (such as maps or photos), audio, or text.
+### 2016 Areas of Focus
 
-![Data Formats](../media/microtasking/data_formats.png)
+#### Our Sector Approach
+The Engine Room partners with organisations working toward social good outcomes. Through the years, we have worked with organisations working towards diverse missions. Despite that diversity, 	we have carried out focused work in a number of sectors and communities and plan to continue sector-specific strategies.
 
-### Requirements
+What sectors did we work in most in 2016?
 
-These are the most commonly cited responsibilities for a successful microtasking team, with the most frequently mentioned at the top. Note that some of these roles may be shared by more than one individual.
+* transparency and accountability (extractives transparency, open government, open contracting, freedom of information);
+* human rights (grave crimes, freedom of expression, and documentation)
+* environmental protection (deforestation, forest peoples’ rights)
 
-* Someone responsible for __attracting new volunteers__ and building momentum around a campaign.
-* Someone responsible for __retaining and coordinating volunteers__, including answering queries with basic information about how the platform worked.
-* Someone who __understands the subject matter__ and the end use to which the data will be applied. This person should be able to communicate with non-expert users.
-* Someone with __web development skills__, with specifics varying depending on the project. For example, working with Micromappers' machine learning capabilities requires someone who has experience with Java.
-* Someone with __skills in accessing and processing data__ in the relevant formats for that project – both for designing the platform and monitoring the inputs. For example, several projects using satellite imagery noted that having someone who understands remote sensing and the tasks required to process satellite data was useful.
-* Someone with __statistical analysis skills__ for projects that involve dealing with large quantities of data.
-* Someone who __understands user experience (UX) design__ to optimize the workflow for maintained and effective engagement.
+There are obvious interconnections between these issue areas that we continue to explore. In 2017, we will concentrate on work in these sectors, and will also work with partners and colleagues in other sectors like the fields of humanitarian work, digital security, human development and other social change sectors where we think we will add particular value.
 
-### Minimizing Risk
+What we do in each sector varies, but generally, we used the formats most prominent in our toolbox including:
+* our Matchbox partnerships,
+* replication sprints,
+* light touch support,
+* strategic advice to INGOs and funders,
+research,
+* and event design and facilitation.
 
-Projects collect limited data about their users’ profile and identity. Most platforms or projects allow users to contribute in three ways.
+#### Transparency and Accountability
 
-* __Anonymously.__ Many sites collect no personal data about the volunteer user.
-* __As a registered user.__ If any information is collected, it is typically an email address. The next most collected piece of information is the user’s name. When collected, names are often optional, likely to prevent users from being discouraged by having to answer too many invasive questions.
-* __By IP address.__ Some sites (such as Zooniverse) track users’ IP addresses and their interaction with the platform, but do not collect detailed profile information.
+In 2016 we provided support to T/A activists around the world to improve the management of public resources, expose and reduce corruption, and improve government service delivery.
 
-### Maximizing Data Integrity
+In the course of the year, we continued our partnership with [three former](https://www.theengineroom.org/pilot-report/) Matchbox partners, organised our [first replication sprint in Southern Africa](https://www.theengineroom.org/balancing-acts-using-replication-sprints-to-repurpose-technology-without-ignoring-context/), selected [two new Matchbox partners in Latin America](https://www.theengineroom.org/meet-our-new-matchbox-partners-in-latin-america-causa-natura-memoria-y-ciudadania/). We also rolled out the [selection process for new Matchbox partners in Sub-Saharan Africa](https://www.theengineroom.org/driving-social-change-in-sub-saharan-africa-apply-for-matchbox-partnership-now/), and for our [second replication sprint in Eastern Europe and the Balkans](https://www.theengineroom.org/driving-social-change-in-sub-saharan-africa-apply-for-matchbox-partnership-now/).
 
-Interviewees revealed two strategies to improve the integrity of microtasked data.
+We helped the [Institute for Public Policy Research (IPPR)](https://www.theengineroom.org/projects/institute-for-public-policy-research/) in their work to prevent corruption in the Namibian mining industry, through unlocking and organizing data around oil and gas exploration licences. We used the data and technology components of IPPR’s [Transparent Oil](https://namibia.transparentoil.org/) platform in [our first replication sprint](https://www.theengineroom.org/so-the-database-or-platform-makes-information-public-now-what/) to create two new structured databases for our partners in [Malawi](https://malawi.diig.io/) and [Zimbabwe](https://zimbabwe.diig.io/), with supporting strategies around data management and advocacy.
 
-#### Training Volunteers
+With our help, [¿Quién Compró?](https://www.theengineroom.org/projects/quien-compro/) in Mexico started to [expose fraudulent expenditures](http://www.quiencompro.org/) of politicians, after digitizing and systematizing almost 16.000 expense receipts from the Mexican parliament. In 2016 we started working with another Mexican organization [Causa Natura](http://causanatura.org/), to empower the fishermen and women of Mexico through unlocking information about government subsidies. We also began a new partnership with Japiqay from Peru. This is a project that tells the story of systematic corruption in Peru over the past 30 years - through a combination of data analysis, visualizations, storytelling, and advocacy.
 
-Every project recognized the need to get volunteers up to speed on the task, and reported different approaches to doing so.
+The support we provided for T/A activists focused on:
+* Data (collection, modeling, visualization, scraping, digitization, analysis);
+* Technology (front-end design, development, user centered research and design);
+* Strategy (project inception, advocacy, fundraising, community building);
+* Sector specific expertise (contracting, extractives licences, politician’s expenses, budgets, subsidies, anti-corruption reform, influence mapping, etc.)
 
-* Most organisations agreed that instructions on using a platform worked best when they were integrated into the task itself. Several interviewees who had developed platforms had modified their user interface so that users were given a task immediately after starting to use the tool, combined with instructions on how to complete it. Depending on the sensitivity of the information, this training task could be presented using synthetic (or test) data, while others used real project data from the outset.
-* Several organisations found that tutorials presented as a separate manual were rarely used.
-* In-person meetings were successful, but might be impractical for projects that aim to engage large numbers. For example, Fairplay Alliance, working with groups of around 30 volunteers, invited them to a two-hour meeting where they were trained to use the tool and asked to sign a volunteer contract and non-disclosure agreement.
+In addition to our Matchbox partnerships and replication sprints, we provided less intensive support to a number of organizations. This light touch support included matchmaking, resource curation, strategic planning, and idea refinement. We provided this support to organisations from: Argentina, Bangladesh, Brasil, Chile, Croatia, Colombia, El Salvador, Guatemala, Kosovo, Kyrgyzstan, Madagascar, Mexico, Morocco, Myanmar, Nepal, Peru, Romania, Serbia, South Africa and Zimbabwe.
 
-#### Verification by Design
+#### Human Rights
+In a data saturated world with rapidly changing technology, the enforcement of universal, fundamental and inalienable human rights requires new tactics and skills. It’s not enough to simply carry on as before. Every day at The Engine Room we work with rights-focused organisations to support them to take advantage of these new technologies, while at the same time navigating the risks that these new technologies present to their organisation, and their personnel.
 
-All projects agreed that verifying and validating data was a crucial part of a successful project, whether that be verifying it before making it public, or before using it internally.
+What did our human rights work look like in 2016?
 
-* __Build verification into project design.__ These can range from detailed statistical procedures to a consensus model, where a pre-set number of people who need to agree before a report can be accepted.
-  * Greenpeace Guardianes requires 30 confirmations for each hexagon (unit of analysis).
-  * Pybossa allows for the number of confirmations to be preset within each instance: for example, a classification might not be added to a project’s database until 10 other users have entered the same classification.
-  * Micromappers requires each piece of content to be reviewed by a minimum of three people, and considers it validated if 80% of participants agree with the classification.
-  * Tomnod uses ‘Crowdrank’: a method in which a volunteer’s reputation increases as they develop a track record of contributions that a majority of other users agree with. The higher their reputation, the greater weight Tomnod gives to their data.
-  * CheckDesk (explicitly a platform for verifying social media reports) adopts a highly transparent verification process in which volunteers use a free-text field to describe their reasons for judging a piece of data to be false (in the style of a comment thread).
-* __Reduce ambiguity.__ The more structure is given to volunteers, the less cleaning of the data is likely be required. Fairplay discovered through their pilot stage that providing structured fields rather than free text was a better way to collect useful data.
-* __Add intermediary checks.__ Anybody can make mistakes, and in some cases the tasks might not be as easy to complete correctly as envisioned. Additional manual verification by staff can counter this, though some interviewees warned that it can create bottlenecks when large amounts of data are involved.
-  * After a data point receives the required 30 confirmations, a Greenpeace Guardianes campaigner has the opportunity to review it.
-  * Vozdata gives some more trusted users (mainly people from peer NGOs) special permissions to review content submitted by others.
+This year we maintained strong relationships with leading human rights organisations as well as smaller groups of human rights defenders, and played a bridging role between researchers working on human rights and technology issues, and the organisations for whom that research could be influential.
 
-### Tool Selection
+Building on our [microtasking research](https://library.theengineroom.org/microtasking) in 2015, we worked with Amnesty International to develop their [Decoders project](https://decoders.amnesty.org/) (see Highlights above for more information). This project uses the tremendous resources of AI’s volunteer network to conduct human rights research using microtasking.
 
-Organisations made project planning decisions for reasons related to their own specific organisational needs. These included the following.
+We partnered again with Amnesty International, and Benetech, to highlight how digital data could be better integrated into the work of human rights researchers.The resulting guide, [DatNav](https://www.theengineroom.org/datnav-digital-data-in-human-rights-research/), helps researchers navigate the world of digital data for human rights.
 
-* __Minimising time spent on development.__ Global Forest Watch Fires and GeoTag-X chose Tomnod and Pybossa, respectively, because they were looking for platforms that were already developed and had features that met their needs. As GeoTag-X’s manager put it: “We needed something already ready to go because we had no developer at the time.”
-* __Project timelines.__ Fairplay Alliance’s project manager said that they put less time into the design of the app in advance; their main focus was getting the platform working quickly and cheaply because they didn't have the time and money to fine-tune it.
-* __Need for specialist information.__ Global Forest Watch Fires chose to work with Tomnod partly because it gave them access to high-quality cloud-free satellite imagery (something that they had previously found hard to access) provided by Digital Globe.
+In addition to developing resources for human rights researchers interested in using digital data, we also carried out research on the [tool ecosystem for human rights documentation](https://www.theengineroom.org/technology-tools-human-rights/). The purpose of this research - funded by the Oak Foundation - was to understand the current landscape, and examine needs and perception gaps. We spoke to tool developers and human rights defenders to see how those communities perspective connected - and didn’t. Our findings were formatted into a [Library entry](https://library.theengineroom.org/humanrights-tech/).
 
-For more on tool selection, read about the engine room's own experience [selecting a microtasking platform](//www.theengineroom.org/behind-the-scenes-how-we-helped-kick-start-a-microtasking-site/).
+Human rights partners were also a significant part of our Light Touch Support work in 2016. We worked with organisations such as:
 
-### Special Considerations
+* a coalition of organisations in Egypt establishing sustainable and secure technology tools for their shared use;
+* the Human Rights, Big Data and Technology project from the University of Essex; and
+* several refugee and migrant-rights related groups to help them better understand their technology needs for increased coordination.
 
-Interviewees held differing opinions on whether gamification was useful or appropriate in microtasking.
+Our human rights work is not limited to supporting human rights organisations. It also includes supporting and advocating for rights-based use of data by the social sector. Our [Responsible Data Reflection Stories](https://responsibledata.io/reflection-stories/uncertainty-statistics/) documented nine case studies on the practical challenges faced in advocacy, including one focused on the struggles experienced by organisations working on gathering data about casualties in the Syrian civil war. (You can read more about our Responsible Data work in the section below.)
 
-#### Gamification
-
-When designing an activity that is intended to encourage repeated participation, designers can add elements more typical of game play (keeping score, creating competition, animations and other friendly interactions). This is called “gamification,” and it can encourage further engagement with a product or service.
-
-![Gamification](../media/microtasking/gamification.png)
-
-Arguments for gamification included:
-
-* __Gamification can make the activity more engaging.__ For platforms where the tasks were repetitive, gamification was seen as a way to “make the activity more entertaining”, to quote Greenpeace Guardianes. These organizations did not actually attempt to create real games, but used gaming mechanisms to make the activity more engaging and fun. For one project, Zooniverse made their classification work more engaging by adding elements of play that didn’t interfere with core tasks: when their Galaxy Zoo volunteers identified galaxies that looked like letters, the platform pulled these out and created an ‘alphabet’ that allowed volunteers to write messages to others.
-* __Gamification can create opportunities to reward or praise volunteers for their contributions.__ Some projects used information on how volunteers were contributing to give them physical rewards (which included 3D-printed items, shopping coupons, t-shirts, books and exclusive access to comedy gigs). Others focused on public recognition: a member of the Vozdata team said: “sometimes we mention volunteers on twitter if we know their username.” One smaller project was able to mitigate the risk of favouritism by finding a way to praise each of their 120 volunteers for some element of their contribution.
-* __Competition can be a motivating factor__ for some projects that aim to find a small number of very effective contributors, like [FoldIt](//fold.it/portal/info/about), an initiative where contributors fold proteins to generate evidence that humans can contribute to predicting their structure more effectively than computers.
-
-Arguments against gamification included:
-
-* __Singling out individuals as ‘successful’ could discourage broader participation.__ projects that collect multiple independent classifications need to motivate as many people to participate as possible. In these cases, interviewees suggested that gamification could dissuade contributors ranked as 'less successful' from taking part. Zooniverse chooses not to build gamification into their project design, finding that people respond better to cooperative challenges than competitive ones. As a developer at Zooniverse said: “it's not about finding the one person, but finding multiple users”.
-* __Emphasising the game aspect can mean losing focus on the task itself.__ Recognising that volunteers were involved in the microtasking activity for motivation that centred around the task itself, some didn’t want to detract from that task without being absolutely sure that assigning points would bring added value to the task in hand.
-* __Gamification can increase stress among volunteers.__ Interviewees cited [research](//dl.acm.org/citation.cfm?doid=2583008.2583019) on the topic that has found that volunteers can feel pressurised to stay at the top of a leaderboard, or leave immediately upon reaching the top. At the other end of the spectrum, new volunteers reported feeling daunted by the difficulty of reaching the top of a leaderboard.
-* __The subject matter of a platform may be inappropriate for competition.__ As one initiative put it: “Our projects often have a crisis focus...and our thought has been: is it fun to reward people for tagging traumatic things?”
-* __Changing the incentives for contribution could decrease the validity of the data.__ One gamified initiative reported problems with cheating – they encouraged people to share public denouncements on social media in exchange for points, but found that volunteers were exploiting a loophole that allowed them to gain points without actually posting anything. “Cheating is something you have to deal with if you’re doing gamification,” they said.
+We also went to several human rights related events, the most notable of which:
+* [AWID Forum](https://www.awid.org/), a gathering of feminist activists and women’s rights defenders primarily from the global South, to better understand their technology and data challenges.
+* A [small, week-long workshop held by Global Voices](https://rising.globalvoices.org/exchange/) with women’s rights defenders from around the world to share their strategies for digital advocacy.
+* And we held held a [Responsible Data Forum on Human Rights Documentation at this year’s Rights Con in San Francisco](https://responsibledata.io/forums/human-rights-documentation-follow-up/).
 
 ---
 
-## Implementation
+## Operational Achievements
 
-### Attracting Volunteers
+All of this work is built atop a foundation of operational growth and strength. In 2016 we recruited our new Operations Director, Roz Zavras, whose awesome organisational skills have been put to the test migrating our legal operations from Norway to the USA. The Engine Room is now fully registered in New York State, and we continue to wind down our Norwegian operations.
 
-Positioning a project early to attract volunteers will increase the quantity and quality of work that can ultimately be microtasked.
+We’ve also been working on our HR systems, developing transparent payscales for all staff, new performance review and professional development processes, and launching our first [Engine Room Research Internship](https://www.theengineroom.org/digital-butterflies-and-weight-of-distance-intern-reflection/), This year we held our first company workshop on wellbeing in the organisation.
 
-* __Altruistic motivations.__ Interviewees said that most volunteers were mainly motivated by the idea of helping or making an authentic contribution to an organisation’s work. Interestingly, Tomnod said that they had found the quality of data submitted by volunteers was “far superior” to the data from paid contributions (from the digital labour service Mechanical Turk): “People who are engaged are doing it because they want to. We find again and again that they’re much more motivated.”
-* __Communicate how the data will be used.__ Almost all projects said that it is essential to make it clear who the end user of the data is, and how they will use the volunteers’ data in their work. “The biggest thing that drives engagement is knowing that there is somebody at the end of the tunnel – and not too far from the end – who really wants that data.”
-* __Supporting the volunteer community.__ Interviewees suggested that those end users need to play a prominent, active role in any online community that the project creates. Whether that is newsletters, blogs, social media or online forums. Key elements of this role were making themselves available for questions from volunteers and providing feedback on how the data would be used to help them.
-* __Early involvement.__ Volunteer engagement can be particularly important in the early stages of a project. When the community is starting up, Zooniverse noted that some projects had found it helpful to have people on hand “almost 24/7” to answer questions and encourage new users. Several projects highlighted the importance of meeting people where they already were - for example, Fairplay Alliance answered questions about the platform on a private Facebook group because it was the most widely used format in Slovakia.
-* __High-profile users.__ Volunteer engagement can increase when joined by a recognisable or senior figure in the field. For example, crowdsourcing verification platform CheckDesk suggested that the involvement of prominent citizen journalists such as Eliot Higgins on specific tasks bolstered volunteers’ sense that they were contributing to a high-quality endeavour.
-* __Keeping the platform consistent__: Greenpeace’s Innovation Lab noticed that far fewer people registered for the second version of their Guardianes platform when it re-launched. They suggested that this could be because the Chrome browser (which a large proportion of their users used) no longer supported the Silverlight plugin on which Guardianes was built. Although Guardianes still worked on other browsers, few users were willing to switch to another one in order to continue their microtasking.
-* __Social capital.__ A member of the Vozdata team (at the Argentinian paper La Nacion) said that they were able to attract recruits by using their strong national reputation: “[people] feel that if we are saying and asking for this, it has to be for something good.” She also described ways in which she had responded to students who asked her questions on other topics: “I say, go liberate some documents on Vozdata first, and then I will answer one question.”
-* __Timing.__ Several projects found that participation was particularly high when media coverage gave greater prominence to a project’s subject matter. Tomnod recorded 8 million visits in the space of two weeks in 2014, as users searched satellite imagery for evidence of the disappeared Malaysian Airlines plane MH370, while – on a smaller scale – Vozdata typically times its campaigns around specific political events. Other examples include:
-  * Global Forest Watch Fires bases its campaigns around the fire season in south-east Asia.
-  * GeoTag-X and Micromappers organise activities focused on particular humanitarian crises.
-  * Vozdata bases its campaigns around specific political events, such as the release of politicians’ expense records.
+This year we also launched a [new website and brand identity](https://www.theengineroom.org/).
 
-### Retaining Volunteers
-
-Once a microtasking project has launched, there is a natural limit to the length of time that most volunteers will contribute. The following tactics can extend that volunteer engagement period.
-
-* __Keeping up momentum.__ Several interviewees found that excitement and pressure were key motivators for encouraging people to keep engaging. Some Zooniverse projects recorded significant spikes in activity after sending out a newsletter asking their community to reach 1 million classifications in a week. Another project noticed that when their communications “went into autopilot” and failed to communicate urgency, volunteer participation dropped off. Greenpeace's Innovation Lab found that participation was highest when their communications around the Guardianes platform were well integrated with the organisation’s broader forests campaign plan and communications outputs.
-* __Constant contact.__ The team working on Tomnod realised that “you can’t over-communicate” with volunteers. They use multiple channels to reach their audience, including Twitter, Facebook, a discussion forum and their primary tool: email. Micromappers set up a chatroom each time their tool was used, and found that volunteers would often enjoy interacting with each other - even on issues that had nothing to do with microtasking or the disaster in question.
-* __In-person contact.__ Fairplay Alliance began publishing lists of most successful volunteers, giving extra praise to those processed most contracts over which time period. They thought carefully about how to praise and recognise the work of each volunteer, as they found out that this was very valued; in effect, being part of a community seemed to really matter to the volunteers. Over time, Fairplay started organising events for them, inviting them to their office, then (for bigger groups of 30-40 people) providing drinks and organising discussions. “These are the real things that really matter to the people; that they’re taking part with the sense of contributing to something bigger, that you show them what you’re able to do with their help.”
-* __Linking volunteer effort to results.__ Some organisations, such as Fairplay, focused a lot of energy on launching the results of their platform publicly. Before they did the public launch of their data, they had a big event where all volunteers were invited, with semi-famous people present, as well as a local comic with private show. They awarded the most active volunteers, with gifts and printed diplomas showing how many contracts they processed. Micromappers highlights top contributors in emails to their mailing list.
+The Engine Room continues to grow rapidly. We have watched peer organisations navigate the challenges of rapid growth - some with more success than others. We know that our team, values, culture and skills are a precious resource that we must protect to ensure we continue to deliver excellent, innovative work in the future.
 
 ---
 
-## About
-This site was created by The Engine Room and Amnesty International to understand the ins and outs of micro-tasking, to support Amnesty’s Alt Click project. Comments or questions? Contact [post@theengineroom.org](mailto:post@theengineroom.org).
+## Team Changes
 
-Alt Click is a two-year project funded by the [Swedish Postcode Lottery](//www.postkodlotteriet.se) that aims to inspire a new generation of tech savvy human rights activists to take part in documenting, verifying and collating evidence of human rights abuse. In this context, Amnesty is planning to use micro-tasking to invite people to analyse satellite images, verify video footage and classify large amounts of social media data.
-
-### Contributors
-
-__Milena Marin__ is the Senior Innovations Campaigner at Amnesty International and project manager of Alt Click. Get in touch to know more about Amnesty's efforts to use microtasking [@milena_iul](//twitter.com/milena_iul).
-
-__[The Engine Room](//theengineroom.org)__ is an international organisation that helps activists, organisations, and other social change agents make the most of data and technology to increase their impact.
-
-From the Engine Room team, on this project [Danna Ingleton](https://www.theengineroom.org/our_team/danna-ingleton/), Responsible Data Program Manager, was involved in project conception and set up. [Zara Rahman](https://www.theengineroom.org/our_team/zara-rahman/) managed the project and came up with the idea of topic-specific microsites like the one you see here. [Tom Walker](https://www.theengineroom.org/our_team/tom-walker/) carried out the research, including all interviews and the write up of the bulk of the content. [Maya Richman](https://www.theengineroom.org/our_team/maya-richman/) contributed the tools functionalities table, and [Tin Geber](https://www.theengineroom.org/our_team/tin-geber/) and [Alix Dunn](https://www.theengineroom.org/our_team/alix-dunn/) provided useful feedback and guidance to the design. The site sourcecode is available on [Github](https://github.com/the-engine-room/library/).
+We grew by 5 team members this year, welcoming Roz Zavras, Claude Migisha, Anca Matioc, Paola Mosso and Alan Zard, and had the pleasure of working with an amazing group of consultants including: James Hamilton, Ruth Miller, Julia Kloiber, Julie Lorch, Fede Pinci, Don Hubert, Seember Nyager, Elissa Williams, Chris Michael, and Dimitrios Stamatis, Georges Labreche, the fantastic teams at web.burza and Open Data Kosovo.
