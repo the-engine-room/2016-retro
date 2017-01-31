@@ -52,8 +52,11 @@ section.content {
   p { margin-bottom: 1.5rem; }
 
   h1 {
-    font-style: italic;
+    font-weight: bold;
     font-size: 4rem;
+    color: $primary-color;
+    margin: 50px 0px;
+    font-size: 60pt; 
   }
 
   h2 {

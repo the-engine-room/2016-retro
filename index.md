@@ -18,8 +18,9 @@ categories:
   - en
 ---
 
-
-# The Great 2016 Retrpspective is Under Construction
+<div class="row">
+<div class="nine columns" markdown="1">
+# 2016 Retrospective
 
 
 ## Letter from the Executive Director
@@ -45,7 +46,10 @@ As always, our digital door is open.
 Alix Dunn
 Executive Director & Founder
 The Engine Room
-
+</div>
+<div class="three columns">
+</div>
+</div>
 ## Who we are
 
 ### Our Mission

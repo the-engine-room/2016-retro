@@ -53,20 +53,22 @@ nav {
 
 
 
-  h1 {
+h1 {
   padding: 10px 0 15px 0;
   margin: 0;
-
   background: $primary-color;
   color: $white;
   font-weight: bold;
 
   @media (#{$bp-larger-than-phablet}) {
-    background: $white;
-    color: $dark-grey;
-    margin-bottom: 20px; }
+    color: $primary-color;
+    font-size: 60pt;
+    font-weight: bold;
+    margin: 50px 0px; 
 
   }
+
+}
 
 
 
@@ -124,7 +126,7 @@ nav {
   }
   li.active a, li:hover a {
     background: $dark-grey;
-    color: $primary-color;
+    color: $secondary-color;
   }
 
 
