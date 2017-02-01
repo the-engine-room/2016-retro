@@ -115,7 +115,7 @@ h1 {
     background: $primary-color;
   }
   li {
-    padding: 15px 55px 15px 30px;
+    padding: 10px 55px 10px 30px;
     margin-bottom: 0;
     font-weight: bold;
     text-align: right;
@@ -205,6 +205,7 @@ blockquote {
     font-family: 'Roboto', sans-serif;
     font-size: 16px; color: $dark-grey;
     font-style: italic;
+    margin: 15px 0px;
     a {
       color: #464646;
       font-size: 16px;

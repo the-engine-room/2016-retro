@@ -42,7 +42,7 @@ All in all, as we begin our 2017, I am proud of our track record of success acro
 As always, our digital door is open.
 
 Alix Dunn<br />
-Executive Director & Founder<br />
+Executive Director & Co-Founder<br />
 The Engine Room<br />
   </div>
   <div class="three columns">
@@ -119,7 +119,7 @@ We worked with organisations in 42 countries, including: Argentina, Bangladesh, 
 </div>
 </div>
 
-This year we worked on 7 Matchbox Partnership projects with organisations from Malawi, Mexico, Namibia, Peru and Zimbabwe. We also continued partnerships from the 2014/2015 pilot phase. We piloted our Replication Sprint model.
+This year we worked on 8 Matchbox Partnership projects with organisations from Malawi, Mexico, Namibia, Peru and Zimbabwe. We also continued partnerships from the 2014/2015 pilot phase. We piloted our Replication Sprint model.
 </div>
 </div>
 
@@ -198,9 +198,8 @@ The process: Using desk research and interviews, we identified the people, tools
 The outcome: [Amnesty Decoders](https://decoders.amnesty.org/) gave volunteers a new, meaningful way to combat human rights abuses. Over 6000 digital volunteers digitised key information from Amnesty’s Urgent Action archive in less than a month. And using the pilot process we helped them develop, they sorted 150,000 square kilometres of satellite footage in under a week.
 </div>
 <div class="four columns" markdown="1">
->“I am forever grateful to The Engine Room team for helping take Amnesty Decoders off the ground. We had a good understanding of what we needed to achieve – a new, innovative way to engage digital volunteers in human rights research. The least clear part was how to get there in the most efficient way. Through a series of hands on workshops and research, The Engine Room helped the Amnesty team define the project scope and framework, understand what is possible ensuring we learn from other similar initiatives, assess available technologies and crystallise our ideas into a focused pilot project.”
-Milena Marin,
-Amnesty International
+>“I am forever grateful to The Engine Room team for helping take Amnesty Decoders off the ground. We had a good understanding of what we needed to achieve – a new, innovative way to engage digital volunteers in human rights research. The least clear part was how to get there in the most efficient way. Through a series of hands on workshops and research, The Engine Room helped the Amnesty team define the project scope and framework, understand what is possible ensuring we learn from other similar initiatives, assess available technologies and crystallise our ideas into a focused pilot project.”<br />
+Milena Marin, Amnesty International
 </div>
 </div>
 </div>
@@ -221,7 +220,8 @@ The event:
 Our first replication sprint in Cape Town brought together two project teams from Zimbabwe and Malawi, designers, developers, policy and data experts for a week of intense work. We digitised and organised platforms that structure mining licence data and host relational company data, and developed strategies for data collection, advocacy and community engagement.
 </div>
 <div class="four columns" markdown="1">
->“I was intimidated… by user experience, data models, GIS, and tools like CartoDB… [and]... concerned… I would be overwhelmed. In five days, I understand how these things work and how we can put them to work in our advocacy. And I’m excited to keep going.” Feedback from the event
+**Feedback from the event**
+>“I was intimidated… by user experience, data models, GIS, and tools like CartoDB… [and]... concerned… I would be overwhelmed. In five days, I understand how these things work and how we can put them to work in our advocacy. And I’m excited to keep going.”
 </div>
 </div>
 </div>
@@ -245,7 +245,6 @@ The Outcome: Within just a few months of it being published, The DatNav guide ha
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Love this new guide to navigate and integrate digital data in human rights research: <a href="https://t.co/hadfKbrzlE">https://t.co/hadfKbrzlE</a></p>&mdash; Wes Grubbs (@wesleygrubbs) <a href="https://twitter.com/wesleygrubbs/status/779400191342370816">September 23, 2016</a></blockquote>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Super clear, valuable primer for digital data in human rights. Thx &amp; congrats to <a href="https://twitter.com/EngnRoom">@EngnRoom</a> <a href="https://twitter.com/amnesty">@amnesty</a> &amp; all involved. <a href="https://t.co/NNHPQD1Hfm">https://t.co/NNHPQD1Hfm</a></p>&mdash; Madeleine Bair (@madbair) <a href="https://twitter.com/madbair/status/771783677135192064">September 2, 2016</a></blockquote>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Exciting methodology project: DatNav - guide to using digital data for human rights research by <a href="https://twitter.com/EngnRoom">@EngnRoom</a> &amp; others. <a href="https://t.co/Fqep3fHGmU">https://t.co/Fqep3fHGmU</a></p>&mdash; Brian Root (@brian_root) <a href="https://twitter.com/brian_root/status/769171591053864960">August 26, 2016</a></blockquote>
 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
@@ -265,7 +264,7 @@ What we did: Working with information designer and artist Mushon Zer-Aviv, and o
 The outcome: We created a series of resources that lives on the Responsible Data wiki. The conversation we began about responsible data and data visualisation  has has [grown and spread throughout the year](https://twitter.com/search?q=rdfviz&src=typd), and [the posts](https://responsibledata.io/data-vizualisation-links-and-articles/) that were written in the lead up to the event have been referred to by related movements and communities since then, like [feminist data visualisation](https://civic.mit.edu/feminist-data-visualization). We’ve heard rumblings of collaborations between participants, and we are excited to build on this event in the coming year.
 </div>
 <div class="four columns" markdown="1">
->"Last Friday I attended a Data Visualization seminar by the Responsible Data Forum. I got a fascinatingly succinct introduction to the concerns of applying data visualization in a responsible way."  
+>"Last Friday I attended a Data Visualization seminar by the Responsible Data Forum. I got a fascinatingly succinct introduction to the concerns of applying data visualization in a responsible way."
 [Crash course: Responsible dataViz](https://jahya.net/blog/crash-course-responsible-dataviz/)
 
 >"Last year’s workshop on [private sector data sharing](http://responsibledata.io/forums/responsibility-private-sector-data/) (data philanthropy, if you like) inspired some of our thinking and collaborations over the past year, and today’s event about [data visualization for social impact](https://responsibledata.io/forums/data-visualization/) did not disappoint."
@@ -291,12 +290,11 @@ The process: The 2.5 day participatory workshop featured support for: designing 
 The outcome: Feedback from the event was overwhelmingly positive - with participants finding the participatory methods useful for putting them in the shoes of their adversaries and champions, as well as learning how to improve data visualisation methods. Clinics with visiting experts provided participating organisations with tailored advice, and grew the network of expertise in the region.
 </div>
 <div class="four columns" markdown="1">
-
+**Feedback from the event**
 >“What I liked most was the opportunities for participants to learn from each other.”
-Feedback from the event
 
 >“I think there was not one missing thing about the process. Perfect. I would like to learn how to hold a similar workshop for other people in my organisation.”
-Feedback from the event
+
 </div>
 </div>
 </div>
@@ -481,9 +479,10 @@ Alidade: In 2016, we built the first version of an interactive guide to the proc
 </div>
 </div>
 <div class="row">
-<div class="nine columns" markdown="1">
+<div class="twelve columns" markdown="1">
 ## Operational Achievements
-
+<div class="row">
+<div class="eight columns" markdown="1">
 All of this work is built atop a foundation of operational growth and strength. In 2016 we recruited our new Operations Director, Roz Zavras, whose awesome organisational skills have been put to the test migrating our legal operations from Norway to the USA. The Engine Room is now fully registered in New York State, and we continue to wind down our Norwegian operations.
 
 We’ve also been working on our HR systems, developing transparent payscales for all staff, new performance review and professional development processes, and launching our first [Engine Room Research Internship](https://www.theengineroom.org/digital-butterflies-and-weight-of-distance-intern-reflection/), This year we held our first company workshop on wellbeing in the organisation.
@@ -491,9 +490,23 @@ We’ve also been working on our HR systems, developing transparent payscales fo
 This year we also launched a [new website and brand identity](https://www.theengineroom.org/).
 
 The Engine Room continues to grow rapidly. We have watched peer organisations navigate the challenges of rapid growth - some with more success than others. We know that our team, values, culture and skills are a precious resource that we must protect to ensure we continue to deliver excellent, innovative work in the future.
-
+</div>
+<div class="four columns">
+<img src="/images/Illustration_2_Operational Achievements.png" alt="Operational Achievements">
+</div>
+</div>
+<div class="row">
+<div class="twelve columns" markdown="1">
 ## Team Changes
+<div class="row">
+<div class="eight columns" markdown="1">
+We grew by 5 team members this year, welcoming Roz Zavras, Claude Migisha, Anca Matioc, Paola Mosso and Alan Zard, and had the pleasure of working with an amazing group of consultants including: James Hamilton, Ruth Miller, Julia Kloiber, Julie Lorch, Fede Pinci, Don Hubert, Seember Nyager, Elissa Williams, Chris Michael, Dimitrios Stamatis, Georges Labreche, and the fantastic teams at web.burza and Open Data Kosovo.
 
-We grew by 5 team members this year, welcoming Roz Zavras, Claude Migisha, Anca Matioc, Paola Mosso and Alan Zard, and had the pleasure of working with an amazing group of consultants including: James Hamilton, Ruth Miller, Julia Kloiber, Julie Lorch, Fede Pinci, Don Hubert, Seember Nyager, Elissa Williams, Chris Michael, and Dimitrios Stamatis, Georges Labreche, the fantastic teams at web.burza and Open Data Kosovo.
+</div>
+<div class="four columns">
+<img src="/images/Illustration_3_Team changes.png" alt="Team changes">
+</div>
+</div>
+
 </div>
 </div>
