@@ -6,7 +6,7 @@ published: true
 navigation:
   - Letter from the Executive Director
   - Who we are
-  - 2016 Year in numbers
+  - Year in numbers
   - Operational Achievements
   - Team Changes
 lang: en
@@ -239,10 +239,12 @@ The process: After identifying the key challenge - that people are overwhelmed b
 The Outcome: Within just a few months of it being published, The DatNav guide has been downloaded over 600 times and testimony from human rights defenders shows it has been extremely valuable in helping guide them through the plethora of opportunities digital data presents them. We plan to grow our support to human rights organisations facing these challenges so they can put digital data to work.
 </div>
 <div class="four columns" markdown="1">
->Feedback: Maybe 2 tweets about the output?
-https://twitter.com/wesleygrubbs/status/779400191342370816
-https://twitter.com/madbair/status/771783677135192064
-https://twitter.com/brian_root/status/769171591053864960
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Love this new guide to navigate and integrate digital data in human rights research: <a href="https://t.co/hadfKbrzlE">https://t.co/hadfKbrzlE</a></p>&mdash; Wes Grubbs (@wesleygrubbs) <a href="https://twitter.com/wesleygrubbs/status/779400191342370816">September 23, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Super clear, valuable primer for digital data in human rights. Thx &amp; congrats to <a href="https://twitter.com/EngnRoom">@EngnRoom</a> <a href="https://twitter.com/amnesty">@amnesty</a> &amp; all involved. <a href="https://t.co/NNHPQD1Hfm">https://t.co/NNHPQD1Hfm</a></p>&mdash; Madeleine Bair (@madbair) <a href="https://twitter.com/madbair/status/771783677135192064">September 2, 2016</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Exciting methodology project: DatNav - guide to using digital data for human rights research by <a href="https://twitter.com/EngnRoom">@EngnRoom</a> &amp; others. <a href="https://t.co/Fqep3fHGmU">https://t.co/Fqep3fHGmU</a></p>&mdash; Brian Root (@brian_root) <a href="https://twitter.com/brian_root/status/769171591053864960">August 26, 2016</a></blockquote>
+
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 </div>
 </div>
@@ -260,11 +262,11 @@ What we did: Working with information designer and artist Mushon Zer-Aviv, and o
 The outcome: We created a series of resources that lives on the Responsible Data wiki. The conversation we began about responsible data and data visualisation  has has [grown and spread throughout the year](https://twitter.com/search?q=rdfviz&src=typd), and [the posts](https://responsibledata.io/data-vizualisation-links-and-articles/) that were written in the lead up to the event have been referred to by related movements and communities since then, like [feminist data visualisation](https://civic.mit.edu/feminist-data-visualization). We’ve heard rumblings of collaborations between participants, and we are excited to build on this event in the coming year.
 </div>
 <div class="four columns" markdown="1">
->"Last Friday I attended a Data Visualization seminar by the Responsible Data Forum. I got a fascinatingly succinct introduction to the concerns of applying data visualization in a responsible way."
-https://jahya.net/blog/crash-course-responsible-dataviz/
+>"Last Friday I attended a Data Visualization seminar by the Responsible Data Forum. I got a fascinatingly succinct introduction to the concerns of applying data visualization in a responsible way."  
+[Crash course: Responsible dataViz](https://jahya.net/blog/crash-course-responsible-dataviz/)
 
->"Last year’s workshop on [private sector data sharing](http://responsibledata.io/forums/responsibility-private-sector-data/) (data philanthropy, if you like) inspired some of our thinking and collaborations over the past year, and today’s event about [data visualization for social impact](https://responsibledata.io/forums/data-visualization/) did not disappoint."
-https://blogs.microsoft.com/newyork/2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/
+>"Last year’s workshop on [private sector data sharing](http://responsibledata.io/forums/responsibility-private-sector-data/) (data philanthropy, if you like) inspired some of our thinking and collaborations over the past year, and today’s event about [data visualization for social impact](https://responsibledata.io/forums/data-visualization/) did not disappoint." 
+[Microsoft Blog - DataViz for good: How to ethically communicate data ina visual manner](https://blogs.microsoft.com/newyork/2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/)
 </div>
 </div>
 </div>
