@@ -6,7 +6,7 @@ published: true
 navigation:
   - Letter from the Executive Director
   - Who we are
-  - Year in numbers
+  - "2016 Year in numbers"
   - Operational Achievements
   - Team Changes
 lang: en
@@ -79,8 +79,8 @@ Our organisational strength lies in our diverse skills - with coders, policy adv
 
 
 <div class="row">
-  <div class="nine columns yin" markdown="1" >
-## 2016 Year in numbers
+<div class="nine columns yin" markdown="1" >
+<h2 id="2016-year-in-numbers">2016 Year in numbers</h2>
 
 ### 188
 #### Organisations Supported in...
@@ -265,7 +265,7 @@ The outcome: We created a series of resources that lives on the Responsible Data
 >"Last Friday I attended a Data Visualization seminar by the Responsible Data Forum. I got a fascinatingly succinct introduction to the concerns of applying data visualization in a responsible way."  
 [Crash course: Responsible dataViz](https://jahya.net/blog/crash-course-responsible-dataviz/)
 
->"Last year’s workshop on [private sector data sharing](http://responsibledata.io/forums/responsibility-private-sector-data/) (data philanthropy, if you like) inspired some of our thinking and collaborations over the past year, and today’s event about [data visualization for social impact](https://responsibledata.io/forums/data-visualization/) did not disappoint." 
+>"Last year’s workshop on [private sector data sharing](http://responsibledata.io/forums/responsibility-private-sector-data/) (data philanthropy, if you like) inspired some of our thinking and collaborations over the past year, and today’s event about [data visualization for social impact](https://responsibledata.io/forums/data-visualization/) did not disappoint."
 [Microsoft Blog - DataViz for good: How to ethically communicate data ina visual manner](https://blogs.microsoft.com/newyork/2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/)
 </div>
 </div>
