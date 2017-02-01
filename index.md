@@ -429,7 +429,7 @@ In addition to this work, we supported [MANA](https://mana-vox.org), a NGO-based
 A broad range of actors are involved in practices that damage environments. This year, we focused on one of them, and developed [an introductory guide](https://www.theengineroom.org/socially-responsible-investment-guide/) on how socially responsible investors find and use civil society-produced data on rainforests - and how activists could provide them with data that leads to more responsible corporate practices.
 </div>
 <div class="four columns" markdown="1">
-<img src="/images/icons/ER_Government_yellow.png" alt="Environmental Justice">
+<img src="/images/icons/ER_Environmental Justice_yellow.png" alt="Environmental Justice">
 </div>
 </div>
 </div>
