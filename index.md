@@ -7,6 +7,8 @@ navigation:
   - Letter from the Executive Director
   - Who we are
   - "2016 Year in numbers"
+  - "2016 Highlights"
+  - "2016 Sector Focus"
   - Operational Achievements
   - Team Changes
 lang: en
@@ -174,7 +176,8 @@ All of this achieved with only a <span class="big-number">30%</span> year-over-y
 
 <div class="row">
   <div class="nine columns" markdown="1">
-## 2016 Highlights
+<h2 id="2016-highlights">2016 Highlights</h2>
+
 We are proud of the work we have achieved in 2016. Here are some highlights of the year - some of our favorite projects where we think the impact of our work is strongest.
 </div>
 </div>
@@ -301,7 +304,7 @@ Feedback from the event
 
 <div class="row">
 <div class="eight columns" markdown="1">
-## 2016 Sector Focus
+<h2 id="2016-sector-focus">2016 Sector Focus</h2>
 
 The Engine Room partners with organisations working toward social good outcomes. Through the years, we have worked with organisations working towards diverse missions. Despite that diversity, 	we have carried out focused work in a number of sectors and communities and plan to continue sector-specific strategies.
 
