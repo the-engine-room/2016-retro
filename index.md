@@ -61,7 +61,7 @@ The Engine Room accelerates social change by helping activists, organisations an
 <div class="row ">
 <div class="columns twelve ">
 <div class="pusher-right ">
-  <img class="pusher" src="/images/ER_Texture_HEADER_BG_1_0A.png" alt="Our Mission" />
+  <img class="pusher" src="/images/ER_Texture_HEADER_BG_1_0A.jpg" alt="Our Mission" />
 </div>
 </div>
 </div>
