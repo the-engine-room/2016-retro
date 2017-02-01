@@ -2,10 +2,6 @@
 layout: page
 title: 2016 Retrospective
 description:
-image: /media/index/microtasking.svg
-funder_logo: /images/logos/amnesty.png
-funder_link: //www.amnestyusa.org
-funder_name: Amnesty International
 published: true
 navigation:
   - Letter from the Executive Director
@@ -19,7 +15,7 @@ categories:
 ---
 
 <div class="row">
-  <div class="nine columns" markdown="1">
+<div class="nine columns" markdown="1">
 # 2016 Retrospective
 
 
@@ -228,8 +224,12 @@ Our first replication sprint in Cape Town brought together two project teams fro
 </div>
 </div>
 
-### DatNav: Primer on Digital Data in Human Rights Research
 
+<div class="row">
+<div class="twelve columns" markdown="1">
+### DatNav: Primer on Digital Data in Human Rights Research
+<div class="row">
+<div class="eight columns" markdown="1">
 The problem: We believe digital data opens up all sorts of new possibilities for human rights research. But is it true? And how are human rights researchers putting these tools to use now? To answer these questions, we conducted a series of interviews, community consultations.. Surprisingly we  discovered that in the vast majority of cases,  it wasn’t being used at all. Why? Our research showed that human rights researchers are overwhelmed by the possibilities and in the face of limited resources, they don’t know how to get started or even if  it is worthwhile to try.
 
 What we did: We built on the information we collected in our community consultations and interviews, and worked with Amnesty International and Benetech to create a guide, [DatNav](https://www.theengineroom.org/datnav-digital-data-in-human-rights-research/), to help address these issues. Read more about it [here](https://www.theengineroom.org/datnav-digital-data-in-human-rights-research/).
@@ -237,27 +237,45 @@ What we did: We built on the information we collected in our community consultat
 The process: After identifying the key challenge - that people are overwhelmed by the possibilities - [Chris Michael](https://www.collaborationsforchange.org/about/) of [Collaborations for Change](https://www.collaborationsforchange.org/) helped us to design a convening of 16 researchers, human rights defenders, and technical experts in Berlin in May 2016. Over four days of intense discussion, reflection and writing, we collectively identified content gaps and issues to cover, and drafted the [DatNav](https://www.theengineroom.org/wp-content/uploads/2016/09/datnav.pdf) guide.
 
 The Outcome: Within just a few months of it being published, The DatNav guide has been downloaded over 600 times and testimony from human rights defenders shows it has been extremely valuable in helping guide them through the plethora of opportunities digital data presents them. We plan to grow our support to human rights organisations facing these challenges so they can put digital data to work.
-
+</div>
+<div class="four columns" markdown="1">
 >Feedback: Maybe 2 tweets about the output?
 https://twitter.com/wesleygrubbs/status/779400191342370816
 https://twitter.com/madbair/status/771783677135192064
 https://twitter.com/brian_root/status/769171591053864960
+</div>
+</div>
+</div>
+</div>
 
+<div class="row">
+<div class="twelve columns" markdown="1">
 ### Responsible Data Forum: Data Visualisation
-
+<div class="row">
+<div class="eight columns" markdown="1">
 The problem: In recent years data has become a key element in various struggles for social change. We use data not only as a means for research and investigation, but also as a fundamental building block for our communication and advocacy. Typically, data in spreadsheets is turned into data visualization (dataviz)  to create a message and perhaps drive a campaign. Yet little is known about the ethics and responsibilities of dataviz techniques, policies, and practices in analysis, advocacy, research and design
 
 What we did: Working with information designer and artist Mushon Zer-Aviv, and our partners at [Data & Society](https://datasociety.net/) and [ThoughtWorks](https://www.thoughtworks.com/), we gathered 35 activists, researchers, designers, technologists, analysts, artists, journalists, campaigners and other dataviz-ers to challenge our practices and the use of visualization and develop useful resources to address the issues of responsible data and data visualisation.
 
 The outcome: We created a series of resources that lives on the Responsible Data wiki. The conversation we began about responsible data and data visualisation  has has [grown and spread throughout the year](https://twitter.com/search?q=rdfviz&src=typd), and [the posts](https://responsibledata.io/data-vizualisation-links-and-articles/) that were written in the lead up to the event have been referred to by related movements and communities since then, like [feminist data visualisation](https://civic.mit.edu/feminist-data-visualization). We’ve heard rumblings of collaborations between participants, and we are excited to build on this event in the coming year.
-
+</div>
+<div class="four columns" markdown="1">
 >"Last Friday I attended a Data Visualization seminar by the Responsible Data Forum. I got a fascinatingly succinct introduction to the concerns of applying data visualization in a responsible way."
 https://jahya.net/blog/crash-course-responsible-dataviz/
 
 >"Last year’s workshop on [private sector data sharing](http://responsibledata.io/forums/responsibility-private-sector-data/) (data philanthropy, if you like) inspired some of our thinking and collaborations over the past year, and today’s event about [data visualization for social impact](https://responsibledata.io/forums/data-visualization/) did not disappoint."
 https://blogs.microsoft.com/newyork/2016/01/20/dataviz-for-good-how-to-ethically-communicate-data-in-a-visual-manner-rdfviz/
+</div>
+</div>
+</div>
+</div>
 
+<div class="row">
+<div class="twelve columns" markdown="1">
 ### Evidence and Storytelling in Deforestation Advocacy
+<div class="row">
+<div class="eight columns" markdown="1">
+
 The problem: By using evidence in advocacy strategies, organisations are more likely to achieve their objectives. However, the number of types of evidence is broad
 (photos, videos, maps, interviews, spatial data, social media etc) and it’s hard to tailor the evidence for different target audiences. Are there techniques, tips and methods that we can learn from other organisations, or experts in particular topics?
 
@@ -266,13 +284,21 @@ What we did: We collaborated with Rainforest Foundation Norway to design and run
 The process: The 2.5 day participatory workshop featured support for: designing audience-appropriate advocacy strategies, managing information and evidence, presenting evidence in compelling ways and evaluating campaign outcomes. We brought in local expertise from Malaysiakini, the Web Foundation’s Open Data Labs in Jakarta, and EngageMedia.
 
 The outcome: Feedback from the event was overwhelmingly positive - with participants finding the participatory methods useful for putting them in the shoes of their adversaries and champions, as well as learning how to improve data visualisation methods. Clinics with visiting experts provided participating organisations with tailored advice, and grew the network of expertise in the region.
+</div>
+<div class="four columns" markdown="1">
 
 >“What I liked most was the opportunities for participants to learn from each other.”
 Feedback from the event
 
 >“I think there was not one missing thing about the process. Perfect. I would like to learn how to hold a similar workshop for other people in my organisation.”
 Feedback from the event
+</div>
+</div>
+</div>
+</div>
 
+<div class="row">
+<div class="eight columns" markdown="1">
 ## 2016 Sector Focus
 
 The Engine Room partners with organisations working toward social good outcomes. Through the years, we have worked with organisations working towards diverse missions. Despite that diversity, 	we have carried out focused work in a number of sectors and communities and plan to continue sector-specific strategies.
@@ -292,9 +318,14 @@ What we do in each sector varies, but generally, we used the formats most promin
 * strategic advice to INGOs and funders,
 research,
 * and event design and facilitation.
+</div>
+</div>
 
+<div class="row">
+<div class="twelve columns" markdown="1">
 ### Transparency and Accountability
-
+<div class="row">
+<div class="eight columns" markdown="1">
 In 2016 we provided support to T/A activists around the world to improve the management of public resources, expose and reduce corruption, and improve government service delivery.
 
 In the course of the year, we continued our partnership with [three former](https://www.theengineroom.org/pilot-report/) Matchbox partners, organised our [first replication sprint in Southern Africa](https://www.theengineroom.org/balancing-acts-using-replication-sprints-to-repurpose-technology-without-ignoring-context/), selected [two new Matchbox partners in Latin America](https://www.theengineroom.org/meet-our-new-matchbox-partners-in-latin-america-causa-natura-memoria-y-ciudadania/). We also rolled out the [selection process for new Matchbox partners in Sub-Saharan Africa](https://www.theengineroom.org/driving-social-change-in-sub-saharan-africa-apply-for-matchbox-partnership-now/), and for our [second replication sprint in Eastern Europe and the Balkans](https://www.theengineroom.org/driving-social-change-in-sub-saharan-africa-apply-for-matchbox-partnership-now/).
@@ -310,8 +341,19 @@ The support we provided for T/A activists focused on:
 * Sector specific expertise (contracting, extractives licences, politician’s expenses, budgets, subsidies, anti-corruption reform, influence mapping, etc.)
 
 In addition to our Matchbox partnerships and replication sprints, we provided less intensive support to a number of organizations. This light touch support included matchmaking, resource curation, strategic planning, and idea refinement. We provided this support to organisations from: Argentina, Bangladesh, Brasil, Chile, Croatia, Colombia, El Salvador, Guatemala, Kosovo, Kyrgyzstan, Madagascar, Mexico, Morocco, Myanmar, Nepal, Peru, Romania, Serbia, South Africa and Zimbabwe.
+</div>
+<div class="four columns" markdown="1">
+<img src="/images/icons/ER_Transparency_yellow.png" alt="Transparency & accountability">
+</div>
+</div>
+</div>
+</div>
 
+<div class="row">
+<div class="twelve columns" markdown="1">
 ### Human Rights
+<div class="row">
+<div class="eight columns" markdown="1">
 In a data saturated world with rapidly changing technology, the enforcement of universal, fundamental and inalienable human rights requires new tactics and skills. It’s not enough to simply carry on as before. Every day at The Engine Room we work with rights-focused organisations to support them to take advantage of these new technologies, while at the same time navigating the risks that these new technologies present to their organisation, and their personnel.
 
 What did our human rights work look like in 2016?
@@ -336,9 +378,20 @@ We also went to several human rights related events, the most notable of which:
 * [AWID Forum](https://www.awid.org/), a gathering of feminist activists and women’s rights defenders primarily from the global South, to better understand their technology and data challenges.
 * A [small, week-long workshop held by Global Voices](https://rising.globalvoices.org/exchange/) with women’s rights defenders from around the world to share their strategies for digital advocacy.
 * And we held held a [Responsible Data Forum on Human Rights Documentation at this year’s Rights Con in San Francisco](https://responsibledata.io/forums/human-rights-documentation-follow-up/).
+</div>
+<div class="four columns" markdown="1">
+<img src="/images/icons/ER_HumanRights_yellow.png" alt="Human Rights">
 
+</div>
+</div>
+</div>
+</div>
+
+<div class="row">
+<div class="twelve columns" markdown="1">
 ### Responsible Data
-
+<div class="row">
+<div class="eight columns" markdown="1">
 Our [Responsible Data](https://responsibledata.io/) Programme’s aim is to make sure that when data and technology are used by the social sector, they are used responsibly. This means ensuring people's rights to consent, privacy, security and ownership around the information processes of collection, analysis, storage, presentation and reuse of data, while respecting the values of transparency and openness.
 
 2016 was another big year for the community which doubled in size to 500 members. We launched our community newsletter: [Mission Responsible](http://us2.campaign-archive1.com/home/?u=1747fd8a7bf587bd4a215d984&id=abf5695570) and published the [Responsible Data Handbook](https://responsibledata.io/resources/handbook/).
@@ -350,9 +403,18 @@ This year we produced three Responsible Data Forums on [data visualisation](http
 Our [Reflection Stories on Responsible Data](https://responsibledata.io/reflection-stories/) gives a structured knowledge base with nine case studies on the unforeseen challenges and (sometimes) negative consequences of using technology and data for social change - on subjects ranging from [social media verification](https://responsibledata.io/reflection-stories/social-media-verification/) and opening the wrong data, to [recognising uncertainty in statistics](https://responsibledata.io/reflection-stories/uncertainty-statistics/). Working with School of Data, The Engine Room also supported a [Responsible Data School of Data Fellow](https://schoolofdata.org/2016/05/07/meet-the-2016-school-of-data-fellows/).
 
 For more information on Responsible Data at The Engine Room - check out this end of year [blog post](https://www.theengineroom.org/looking-back-at-2016-in-the-responsible-data-community/) by Paola Verhaert
-
+</div>
+<div class="four columns" markdown="1">
+<img src="/images/icons/ER_ResponsibleData_yellow.png" alt="Responsible Data">
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="twelve columns" markdown="1">
 ### Environmental Justice
-
+<div class="row">
+<div class="eight columns" markdown="1">
 Sixty years after the emergence of the anthropocene, our 21st century will be defined by environmental challenges created by our species. How our generation decides to respond to these challenges will affect the viability of human civilisations for centuries to come. We believe that new technologies and data science present opportunities for civil society to help guide us to better environmental outcomes. Below is a list of our work in 2016 supporting environmental organisations.
 
 This year, we published [a primer](https://library.theengineroom.org/rainforest-tech/) for using technology to monitor and share information on rainforest issues, land rights and indigenous rights. The primer, available in a limited print run and online, demonstrates in concrete use cases how technology can help organisations and activists, gives practical advice for next steps, and links out to more detailed guidance elsewhere. Because of the level of interest we received after its initial launch, we translated the primer and made it available online in our [Library](https://library.theengineroom.org/rainforest-tech/), in five languages (English, Spanish, Portuguese, French and Bahasa Indonesia).
@@ -362,9 +424,20 @@ As well as creating resources, we brought activists together to discuss and shar
 In addition to this work, we supported [MANA](https://mana-vox.org), a NGO-based project that connect civil society organisations with financial institutions via a web platform, to develop their strategy for working with activists to collect and share information about companies’ impact on the environment effectively and responsibly.
 
 A broad range of actors are involved in practices that damage environments. This year, we focused on one of them, and developed [an introductory guide](https://www.theengineroom.org/socially-responsible-investment-guide/) on how socially responsible investors find and use civil society-produced data on rainforests - and how activists could provide them with data that leads to more responsible corporate practices.
+</div>
+<div class="four columns" markdown="1">
+<img src="/images/icons/ER_Government_yellow.png" alt="Environmental Justice">
+</div>
+</div>
+</div>
+</div>
 
+
+<div class="row">
+<div class="twelve columns" markdown="1">
 ### Research
-
+<div class="row">
+<div class="eight columns" markdown="1">
 While our research is often at the service of our support work, our research team delivers its own strategy - providing access to information and analysis that improves the effectiveness of technology uptake in the social good sector.
 
 Significant research highlights this year include our Tool Selection Research project, the first in-depth study of how transparency and accountability initiatives choose digital technology tools, which was combined with [an interactive tool](https://toolselect.theengineroom.org/) designed to help activists make better choices in future. Our project with [GODAN](https://library.theengineroom.org/agriculture/) highlighted the importance of responsible data practices in agriculture, while our [Technology Tools in Human Rights](https://library.theengineroom.org/humanrights-tech/) provides a snapshot of how human rights defenders are using technology tools to communicate, analyse and manage information, identify new incidents and archive data.
@@ -372,9 +445,19 @@ Significant research highlights this year include our Tool Selection Research pr
 We believe that research shouldn’t be locked away in PDFs, so we also launched our [Library](https://library.theengineroom.org/), an online repository of all our research outputs in an open, accessible and easy-to-read format. We also worked with other researchers such as Open Knowledge International, and with in-country teams in Argentina, Kenya and Nepal: our work on the Learning Zone of DataShift, an initiative to highlight how citizen-generated data is being used worldwide. We wrote about [what we did](http://civicus.org/thedatashift/news/reflections-on-year-one-of-the-learning-zone-what-we-produced/) and [what we learned](http://civicus.org/thedatashift/news/reflections-on-year-one-of-the-learning-zone-what-we-found/) in more detail on the site. Finally, we created the [Compiler](https://the-compiler.tumblr.com/), an attempt to summarise and collate all the research that we find interesting and think might be valuable for organisations in one place.
 
 All our research is published under a Creative Commons ShareAlike licence, and we’re thrilled that this has allowed it to be republished more widely. For example, the Cambridge University’s Centre of Governance and Human Rights have published [DatNav](https://www.theengineroom.org/datnav-digital-data-in-human-rights-research/) as the second of their [Practitioner Papers](http://www.cghr.polis.cam.ac.uk/publications/cghr-practitioner-papers-series) series, while the Cambodia-based Development Innovations have reused and repurposed our resources for [their own work](http://www.development-innovations.org/resources/tech-resources/).
+</div>
+<div class="four columns" markdown="1">
+<img src="/images/icons/ER_Research_yellow.png" alt="Research">
 
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="twelve columns" markdown="1">
 ### Technology Work
-
+<div class="row">
+<div class="eight columns" markdown="1">
 In 2016 we developed several technology projects through our direct support and documentation work. What did our web outputs look like last year?
 
 [Library](http://library.theengineroom.org): We launched the Library to host the short, decision-making kits around particular technologies. We built the Library using the static site generator called Jekyll. To cut down on development costs, and make our development useful for others, we continue to fork our Retrospective from last year to make site after site. With some new colors, content, and pizzazz each site looks like new (we even spun up a static site generator for our internal knowledge management - we call it the Ledger). And if you want to make one yourself, feel free to fork it on [GitHub](https://github.com/the-engine-room/library).
@@ -384,7 +467,16 @@ In 2016 we developed several technology projects through our direct support and 
 [DIIG](https://diig.io/): At the replication sprint, we worked with two other organisations who were working to digitise and organise petroleum exploration licenses, this time in the mining sector. We worked with these organisations over a 6-week period to clean and organise data, and then in a week-long sprint to build two new national databases, one in Malawi and one in Zimbabwe. You can see the DIIG platform here which has entry points into all three databases.
 
 Alidade: In 2016, we built the first version of an interactive guide to the process of choosing a technology tool - Alidade. This was built on our research with Making All Voices Count into how organisations make decisions about technology, and what they should consider to make those choices more effective. A new version based on user research with transparency and accountability organisations in six countries will be launched in February - watch this space!
+</div>
+<div class="four columns" markdown="1">
+<img src="/images/icons/ER_NewTech_yellow.png" alt="New technology">
 
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="nine columns" markdown="1">
 ## Operational Achievements
 
 All of this work is built atop a foundation of operational growth and strength. In 2016 we recruited our new Operations Director, Roz Zavras, whose awesome organisational skills have been put to the test migrating our legal operations from Norway to the USA. The Engine Room is now fully registered in New York State, and we continue to wind down our Norwegian operations.
@@ -398,3 +490,5 @@ The Engine Room continues to grow rapidly. We have watched peer organisations na
 ## Team Changes
 
 We grew by 5 team members this year, welcoming Roz Zavras, Claude Migisha, Anca Matioc, Paola Mosso and Alan Zard, and had the pleasure of working with an amazing group of consultants including: James Hamilton, Ruth Miller, Julia Kloiber, Julie Lorch, Fede Pinci, Don Hubert, Seember Nyager, Elissa Williams, Chris Michael, and Dimitrios Stamatis, Georges Labreche, the fantastic teams at web.burza and Open Data Kosovo.
+</div>
+</div>

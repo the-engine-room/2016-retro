@@ -207,8 +207,16 @@ blockquote {
     font-style: italic;
     a {
       color: #464646;
+      font-size: 16px;
+      font-weight: normal;
+      font-family: 'Roboto';
     }
-
+}
+section.content blockquote a {
+  color: $primary-color;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: 'Roboto';
 }
 
 img { margin: auto; width: 100%;
