@@ -500,7 +500,7 @@ The Engine Room continues to grow rapidly. We have watched peer organisations na
 ## Team Changes
 <div class="row">
 <div class="eight columns" markdown="1">
-We grew by 5 team members this year, welcoming Roz Zavras, Claude Migisha, Anca Matioc, Paola Mosso and Alan Zard, and had the pleasure of working with an amazing group of consultants including: James Hamilton, Ruth Miller, Julia Kloiber, Julie Lorch, Fede Pinci, Don Hubert, Seember Nyager, Elissa Williams, Chris Michael, Dimitrios Stamatis, Georges Labreche, and the fantastic teams at web.burza and Open Data Kosovo.
+We grew by 5 team members this year, welcoming Roz Zavras, Anca Matioc, Paola Mosso, Paola Verhaert and Alan Zard, and had the pleasure of working with an amazing group of consultants including: James Hamilton, Ruth Miller, Julia Kloiber, Julie Lorch, Lindsay Ferris, Fede Pinci, Don Hubert, Seember Nyager, Elissa Williams, Chris Michael, Dimitrios Stamatis, Georges Labreche, Claude Migisha, and the fantastic teams at web.burza and Open Data Kosovo. We also took on our first interns, Sam Slate, Tom Parker and Paola Verhaert, with Paola ultimately joining our team full-time.
 
 </div>
 <div class="four columns">
